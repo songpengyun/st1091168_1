@@ -1,0 +1,21 @@
+name: Update Good First Issues
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch good first issues
+        uses: drkrillo/good-first-issues@v2
+        with:
+          usernames: "microsoft" # Replace with your target usernames or organizations
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-format: csv
+          output-path: good_first_issues.csv
