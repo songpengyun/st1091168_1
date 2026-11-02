@@ -22,7 +22,7 @@ microsoft/react-native-windows,C++,Scroll wheel behavior differs significantly i
 microsoft/react-native-windows,C++,Deprecate autolink functionality to copy flags from react-native.config.js into ExperimentalFeature.props.,https://github.com/microsoft/react-native-windows/issues/14601,1,enhancement; Code Cleanup; Area: Autolinking,2025-04-22,2025-06-11
 microsoft/react-native-windows,C++,[Bug] init-windows adds incorrect name of Native Codegen File Include,https://github.com/microsoft/react-native-windows/issues/15094,4,bug; Area: CLI,2025-08-29,2026-08-04
 microsoft/retina,Go,Update documentation with Hubble CLI and Hubble UI deployment instructions on Retina.,https://github.com/microsoft/retina/issues/1387,3,area/documentation; type/enhancement; scope/S; control-plane/hubble,2025-02-26,2025-05-13
-microsoft/TypeScript,Go,Incorrect/unhelpful error message for non-module jsx file,https://github.com/microsoft/TypeScript/issues/64438,5,Bug; Help Wanted,2026-09-24,2026-10-28
+microsoft/TypeScript,Go,Incorrect/unhelpful error message for non-module jsx file,https://github.com/microsoft/TypeScript/issues/64438,5,Bug; Help Wanted,2026-09-24,2026-11-02
 microsoft/terraform-provider-azuredevops,Go,Full unit test suite isn't running on CI,https://github.com/microsoft/terraform-provider-azuredevops/issues/1439,6,,2025-09-29,2026-09-20
 microsoft/edge-ai,HCL,chore(python): add pip lock files for reproducible builds,https://github.com/microsoft/edge-ai/issues/167,0,enhancement; configuration,2026-02-08,2026-04-19
 microsoft/edge-ai,HCL,docs(testing): add regression test tracking policy,https://github.com/microsoft/edge-ai/issues/176,1,documentation; enhancement,2026-02-08,2026-06-19
