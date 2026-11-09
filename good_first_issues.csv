@@ -78,7 +78,6 @@ microsoft/windows-drivers-rs,Rust,HID hidport.h headers missing for UMDF build,h
 microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,"Agent Review Tool: ""Review result exceeds the Dataverse persistence limit"" for agents with many skills",https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/927,0,,2026-11-02,2026-11-03
 microsoft/scope,TypeScript,Allow editing Azure AI Foundry model,https://github.com/microsoft/scope/issues/1386,0,language: javascript; area: portal,2026-08-31,2026-08-31
 microsoft/vscode-jupyter,TypeScript,Add magic line comments regex pattern as configuration for uncommentMagicCommands,https://github.com/microsoft/vscode-jupyter/issues/16499,0,feature-request,2025-03-24,2025-03-24
-microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Bug: Copilot Studio Kit: Soporte para configuración y error en Conversation KPIs,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/923,1,,2026-10-29,2026-10-30
 microsoft/scope,TypeScript,"Clarify that prompt features only categorize prompts, don't impact runs",https://github.com/microsoft/scope/issues/1276,1,type: documentation; topic: ui,2026-07-29,2026-09-25
 microsoft/scope,TypeScript,Document model lifecycle and deprecation process,https://github.com/microsoft/scope/issues/1275,1,type: documentation,2026-07-29,2026-09-28
 microsoft/scope,TypeScript,"Token Manager: introduce a structured 'endpoint' secret type returning {endpoint, apiKey, deployment}",https://github.com/microsoft/scope/issues/912,1,type: enhancement; difficulty: moderate; topic: ux,2026-07-29,2026-10-08
@@ -87,6 +86,7 @@ microsoft/genaiscript,TypeScript,Open Telemetry,https://github.com/microsoft/gen
 microsoft/vscode-python-debugger,TypeScript,Add a `debugpy.sh` for the no-config debugging,https://github.com/microsoft/vscode-python-debugger/issues/651,1,bug,2025-03-05,2026-01-10
 microsoft/Game-Control-Puzzle-Event-Administration-Tools,TypeScript,Per team and per puzzle activity feeds,https://github.com/microsoft/Game-Control-Puzzle-Event-Administration-Tools/issues/81,1,,2025-03-02,2026-09-11
 microsoft/vscode-azurestorage,TypeScript,"There is a redundant Azure activity log ""upload 0 files to xxx"" when uploading a folder by ""Upload to Azure Storage..."" command",https://github.com/microsoft/vscode-azurestorage/issues/1373,1,🐛 bug; AT-CTI,2025-01-22,2026-10-29
+microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Bug: Copilot Studio Kit: Soporte para configuración y error en Conversation KPIs,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/923,2,,2026-10-29,2026-11-09
 microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Import September 2026 release fails during ACP/DLP evaluation even though connectors are available.,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/858,2,,2026-09-09,2026-11-04
 microsoft/scope,TypeScript,Improve UX when listing all runs,https://github.com/microsoft/scope/issues/766,2,area: portal; topic: ux,2026-07-29,2026-10-08
 microsoft/scope,TypeScript,consider a different UX for the Run details UI,https://github.com/microsoft/scope/issues/765,2,difficulty: easy; area: portal; topic: ux,2026-07-29,2026-11-04
