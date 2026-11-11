@@ -21,6 +21,7 @@ microsoft/snmalloc,C++,Implement accurate size storage for Windows `_msize` and 
 microsoft/react-native-windows,C++,Scroll wheel behavior differs significantly in new architecture (Windows App SDK) vs WinUI 3 Gallery app,https://github.com/microsoft/react-native-windows/issues/14653,1,bug; Area: ScrollView; New Architecture; Parity: Windows; Workstream: Component Parity,2025-05-08,2025-07-03
 microsoft/react-native-windows,C++,Deprecate autolink functionality to copy flags from react-native.config.js into ExperimentalFeature.props.,https://github.com/microsoft/react-native-windows/issues/14601,1,enhancement; Code Cleanup; Area: Autolinking,2025-04-22,2025-06-11
 microsoft/react-native-windows,C++,[Bug] init-windows adds incorrect name of Native Codegen File Include,https://github.com/microsoft/react-native-windows/issues/15094,4,bug; Area: CLI,2025-08-29,2026-08-04
+microsoft/TypeScript,Go,Incorrect error message when ASI errors involve a nonstandard newline,https://github.com/microsoft/TypeScript/issues/65433,2,Bug; Help Wanted,2026-11-10,2026-11-10
 microsoft/retina,Go,Update documentation with Hubble CLI and Hubble UI deployment instructions on Retina.,https://github.com/microsoft/retina/issues/1387,3,area/documentation; type/enhancement; scope/S; control-plane/hubble,2025-02-26,2025-05-13
 microsoft/terraform-provider-azuredevops,Go,Full unit test suite isn't running on CI,https://github.com/microsoft/terraform-provider-azuredevops/issues/1439,6,,2025-09-29,2026-09-20
 microsoft/edge-ai,HCL,chore(python): add pip lock files for reproducible builds,https://github.com/microsoft/edge-ai/issues/167,0,enhancement; configuration,2026-02-08,2026-04-19
@@ -80,22 +81,21 @@ microsoft/vscode-jupyter,TypeScript,Add magic line comments regex pattern as con
 microsoft/scope,TypeScript,"Clarify that prompt features only categorize prompts, don't impact runs",https://github.com/microsoft/scope/issues/1276,1,type: documentation; topic: ui,2026-07-29,2026-09-25
 microsoft/scope,TypeScript,Document model lifecycle and deprecation process,https://github.com/microsoft/scope/issues/1275,1,type: documentation,2026-07-29,2026-09-28
 microsoft/scope,TypeScript,"Token Manager: introduce a structured 'endpoint' secret type returning {endpoint, apiKey, deployment}",https://github.com/microsoft/scope/issues/912,1,type: enhancement; difficulty: moderate; topic: ux,2026-07-29,2026-10-08
-microsoft/Agent365-nodejs,TypeScript,"Convert ""test-agents"" into E2E tests",https://github.com/microsoft/Agent365-nodejs/issues/15,1,,2025-10-29,2026-11-07
 microsoft/genaiscript,TypeScript,Open Telemetry,https://github.com/microsoft/genaiscript/issues/1323,1,enhancement,2025-03-19,2025-03-19
-microsoft/vscode-python-debugger,TypeScript,Add a `debugpy.sh` for the no-config debugging,https://github.com/microsoft/vscode-python-debugger/issues/651,1,bug,2025-03-05,2026-01-10
+microsoft/vscode-python-debugger,TypeScript,Add a `debugpy.sh` for the no-config debugging,https://github.com/microsoft/vscode-python-debugger/issues/651,1,bug,2025-03-05,2026-11-10
 microsoft/Game-Control-Puzzle-Event-Administration-Tools,TypeScript,Per team and per puzzle activity feeds,https://github.com/microsoft/Game-Control-Puzzle-Event-Administration-Tools/issues/81,1,,2025-03-02,2026-09-11
 microsoft/vscode-azurestorage,TypeScript,"There is a redundant Azure activity log ""upload 0 files to xxx"" when uploading a folder by ""Upload to Azure Storage..."" command",https://github.com/microsoft/vscode-azurestorage/issues/1373,1,🐛 bug; AT-CTI,2025-01-22,2026-10-29
-microsoft/vscode-azurestorage,TypeScript,Using vs-code to edit files in blob storage changes the files content-type.,https://github.com/microsoft/vscode-azurestorage/issues/1352,1,,2024-11-13,2026-04-29
 microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Bug: Copilot Studio Kit: Soporte para configuración y error en Conversation KPIs,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/923,2,,2026-10-29,2026-11-09
 microsoft/scope,TypeScript,Improve UX when listing all runs,https://github.com/microsoft/scope/issues/766,2,area: portal; topic: ux,2026-07-29,2026-10-08
 microsoft/scope,TypeScript,consider a different UX for the Run details UI,https://github.com/microsoft/scope/issues/765,2,difficulty: easy; area: portal; topic: ux,2026-07-29,2026-11-04
 microsoft/scope,TypeScript,The workspace snapshot archive should include the dot files and dot folders,https://github.com/microsoft/scope/issues/606,2,,2026-07-29,2026-10-20
 microsoft/vscode-containers,TypeScript,Add “Compose Pull / Update All Images” command for Docker Compose projects,https://github.com/microsoft/vscode-containers/issues/414,2,,2026-03-11,2026-08-24
+microsoft/Agent365-nodejs,TypeScript,"Convert ""test-agents"" into E2E tests",https://github.com/microsoft/Agent365-nodejs/issues/15,2,,2025-10-29,2026-11-10
 microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Import September 2026 release fails during ACP/DLP evaluation even though connectors are available.,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/858,3,,2026-09-09,2026-11-09
 microsoft/vscode-containers,TypeScript,Add presentation options to Docker extension's compose commands,https://github.com/microsoft/vscode-containers/issues/350,3,,2026-01-22,2026-08-12
 microsoft/teams.ts,TypeScript,[cards] support lowercase and Capitalized JSON values,https://github.com/microsoft/teams.ts/issues/132,3,enhancement,2025-04-09,2025-10-11
 microsoft/genaiscript,TypeScript,Repository map example,https://github.com/microsoft/genaiscript/issues/982,4,samples,2025-01-07,2025-03-19
-microsoft/vscode-python-debugger,TypeScript,Add support for no-config debugging using nushell,https://github.com/microsoft/vscode-python-debugger/issues/647,5,feature-request; needs community feedback,2025-03-04,2026-01-22
+microsoft/vscode-python-debugger,TypeScript,Add support for no-config debugging using nushell,https://github.com/microsoft/vscode-python-debugger/issues/647,5,feature-request; needs community feedback,2025-03-04,2026-11-10
 microsoft/teams.ts,TypeScript,Automatically parse feedback value,https://github.com/microsoft/teams.ts/issues/184,7,enhancement,2025-04-26,2026-05-15
-microsoft/vscode,TypeScript,Review AsyncIterableObject usage: potential memory leaks and migration to AsyncIterableProducer,https://github.com/microsoft/vscode/issues/256854,38,help wanted; freeze-slow-crash-leak; debt; perf,2025-07-19,2026-10-24
+microsoft/vscode,TypeScript,Review AsyncIterableObject usage: potential memory leaks and migration to AsyncIterableProducer,https://github.com/microsoft/vscode/issues/256854,39,help wanted; freeze-slow-crash-leak; debt; perf,2025-07-19,2026-11-10
 microsoft/vscode,TypeScript,"Disabled and enabled (workspace) extension Disable button dropdown contains both ""Disable"" and ""Disable (Workspace)"" items",https://github.com/microsoft/vscode/issues/244138,42,bug; help wanted; extensions,2025-03-20,2026-10-18
