@@ -1,6 +1,6 @@
 repo,language,title,url,comments,labels,created_at,updated_at
-microsoft/msquic,C,Miss check for the return value of CXPLAT_ALLOC_NONPAGED and CxPlatPoolAlloc,https://github.com/microsoft/msquic/issues/5233,0,help wanted; Area: Testing; Triaged; HowFound: MSR,2025-07-10,2026-03-03
 microsoft/jbpf,C,jbpf_io_ipc_test passes with error messages,https://github.com/microsoft/jbpf/issues/54,0,bug,2025-03-17,2025-03-27
+microsoft/msquic,C,Miss check for the return value of CXPLAT_ALLOC_NONPAGED and CxPlatPoolAlloc,https://github.com/microsoft/msquic/issues/5233,1,help wanted; Area: Testing; Triaged; HowFound: MSR,2025-07-10,2026-11-11
 microsoft/ntttcp,C,per-thread throughput is always 0.00 with ntttcp version 5.40.,https://github.com/microsoft/ntttcp/issues/24,1,help wanted,2025-03-14,2026-02-17
 microsoft/jbpf,C,Remove JBPF_EXPERIMENTAL_FEATURES from  header files,https://github.com/microsoft/jbpf/issues/26,1,,2024-12-13,2026-11-07
 microsoft/ntttcp,C,Incorrect processing of the test pattern,https://github.com/microsoft/ntttcp/issues/23,1,help wanted,2024-11-14,2026-02-17
@@ -21,7 +21,7 @@ microsoft/snmalloc,C++,Implement accurate size storage for Windows `_msize` and 
 microsoft/react-native-windows,C++,Scroll wheel behavior differs significantly in new architecture (Windows App SDK) vs WinUI 3 Gallery app,https://github.com/microsoft/react-native-windows/issues/14653,1,bug; Area: ScrollView; New Architecture; Parity: Windows; Workstream: Component Parity,2025-05-08,2025-07-03
 microsoft/react-native-windows,C++,Deprecate autolink functionality to copy flags from react-native.config.js into ExperimentalFeature.props.,https://github.com/microsoft/react-native-windows/issues/14601,1,enhancement; Code Cleanup; Area: Autolinking,2025-04-22,2025-06-11
 microsoft/react-native-windows,C++,[Bug] init-windows adds incorrect name of Native Codegen File Include,https://github.com/microsoft/react-native-windows/issues/15094,4,bug; Area: CLI,2025-08-29,2026-08-04
-microsoft/TypeScript,Go,Incorrect error message when ASI errors involve a nonstandard newline,https://github.com/microsoft/TypeScript/issues/65433,2,Bug; Help Wanted,2026-11-10,2026-11-10
+microsoft/TypeScript,Go,Incorrect error message when ASI errors involve a nonstandard newline,https://github.com/microsoft/TypeScript/issues/65433,3,Bug; Help Wanted,2026-11-10,2026-11-12
 microsoft/retina,Go,Update documentation with Hubble CLI and Hubble UI deployment instructions on Retina.,https://github.com/microsoft/retina/issues/1387,3,area/documentation; type/enhancement; scope/S; control-plane/hubble,2025-02-26,2025-05-13
 microsoft/terraform-provider-azuredevops,Go,Full unit test suite isn't running on CI,https://github.com/microsoft/terraform-provider-azuredevops/issues/1439,6,,2025-09-29,2026-09-20
 microsoft/edge-ai,HCL,chore(python): add pip lock files for reproducible builds,https://github.com/microsoft/edge-ai/issues/167,0,enhancement; configuration,2026-02-08,2026-04-19
@@ -85,7 +85,7 @@ microsoft/genaiscript,TypeScript,Open Telemetry,https://github.com/microsoft/gen
 microsoft/vscode-python-debugger,TypeScript,Add a `debugpy.sh` for the no-config debugging,https://github.com/microsoft/vscode-python-debugger/issues/651,1,bug,2025-03-05,2026-11-10
 microsoft/Game-Control-Puzzle-Event-Administration-Tools,TypeScript,Per team and per puzzle activity feeds,https://github.com/microsoft/Game-Control-Puzzle-Event-Administration-Tools/issues/81,1,,2025-03-02,2026-09-11
 microsoft/vscode-azurestorage,TypeScript,"There is a redundant Azure activity log ""upload 0 files to xxx"" when uploading a folder by ""Upload to Azure Storage..."" command",https://github.com/microsoft/vscode-azurestorage/issues/1373,1,🐛 bug; AT-CTI,2025-01-22,2026-10-29
-microsoft/Power-CAT-Copilot-Studio-Kit,TypeScript,Bug: Copilot Studio Kit: Soporte para configuración y error en Conversation KPIs,https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/issues/923,2,,2026-10-29,2026-11-09
+microsoft/vscode-azurestorage,TypeScript,Using vs-code to edit files in blob storage changes the files content-type.,https://github.com/microsoft/vscode-azurestorage/issues/1352,1,,2024-11-13,2026-04-29
 microsoft/scope,TypeScript,Improve UX when listing all runs,https://github.com/microsoft/scope/issues/766,2,area: portal; topic: ux,2026-07-29,2026-10-08
 microsoft/scope,TypeScript,consider a different UX for the Run details UI,https://github.com/microsoft/scope/issues/765,2,difficulty: easy; area: portal; topic: ux,2026-07-29,2026-11-04
 microsoft/scope,TypeScript,The workspace snapshot archive should include the dot files and dot folders,https://github.com/microsoft/scope/issues/606,2,,2026-07-29,2026-10-20
