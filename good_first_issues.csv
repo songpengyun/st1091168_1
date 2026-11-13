@@ -58,8 +58,8 @@ microsoft/data-formulator,Python,Expand chart type supports,https://github.com/m
 microsoft/onnxscript,Python,Attention fusion (SDPA/MHA) broken for BART decoder with/wo past🐛,https://github.com/microsoft/onnxscript/issues/2424,7,contribution welcome; module: rewriter,2025-06-29,2026-03-01
 microsoft/markitdown,Python,File support: chm support,https://github.com/microsoft/markitdown/issues/14,7,enhancement,2024-12-13,2026-06-10
 microsoft/markitdown,Python,Support for .doc extensions,https://github.com/microsoft/markitdown/issues/23,15,enhancement; open for contribution,2024-12-14,2026-10-16
-microsoft/data-formulator,Python,Create new data loaders to different resources,https://github.com/microsoft/data-formulator/issues/156,17,help wanted,2025-05-13,2026-10-26
 microsoft/markitdown,Python,LLM Integration,https://github.com/microsoft/markitdown/issues/12,17,enhancement,2024-12-13,2026-06-08
+microsoft/data-formulator,Python,Create new data loaders to different resources,https://github.com/microsoft/data-formulator/issues/156,18,help wanted,2025-05-13,2026-11-12
 microsoft/autogen,Python,need docs/bicep/etc for how to setup with full TLS between all nodes,https://github.com/microsoft/autogen/issues/4373,21,documentation,2024-11-26,2026-07-01
 microsoft/TRELLIS,Python,Can this be used commercially?,https://github.com/microsoft/TRELLIS/issues/41,30,,2024-12-09,2025-10-18
 microsoft/autogen,Python,Get current message thread from a group chat team.,https://github.com/microsoft/autogen/issues/6085,32,help wanted; proj-agentchat,2025-03-24,2026-09-01
