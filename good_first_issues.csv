@@ -9,7 +9,6 @@ microsoft/ebpf-for-windows,C,Update tests/sample/undocked/map.c,https://github.c
 microsoft/msquic,C,Support in-memory certificate stores,https://github.com/microsoft/msquic/issues/4951,2,feature request; external; Area: API; Area: Core,2025-03-27,2026-05-26
 microsoft/ebpf-for-windows,C,ebpf-verifier is cloned twice,https://github.com/microsoft/ebpf-for-windows/issues/4174,2,blocked; cleanup; triaged; P3,2025-02-03,2026-11-07
 microsoft/PowerToys,C,.opus support for Peek,https://github.com/microsoft/PowerToys/issues/42576,4,Idea-Enhancement; Help Wanted; Status-In progress; Product-Peek,2025-10-18,2026-06-28
-microsoft/ebpf-for-windows,C,Remove redundant use of catch2,https://github.com/microsoft/ebpf-for-windows/issues/3954,5,cleanup; triaged; P2,2024-10-27,2026-11-07
 microsoft/msquic,C,Failing to use close-on-exec,https://github.com/microsoft/msquic/issues/4980,7,OS: Windows (User); OS: Linux; external; Bug: Platform; Triaged,2025-04-08,2026-10-13
 microsoft/msquic,C,2.6.0 : Visual Studio : some warnings as errors,https://github.com/microsoft/msquic/issues/6234,8,Area: Build,2026-08-14,2026-09-04
 microsoft/profile-explorer,C#,Mapping code gap?,https://github.com/microsoft/profile-explorer/issues/7,0,enhancement,2025-02-10,2026-03-27
@@ -19,9 +18,11 @@ microsoft/mcp,C#,"[COMMUNITY] Auto generate CHANGELOG, including adding contribu
 microsoft/aspire,C#,Improve Exception Message for Missing Project Metadata Annotation in ResourceContainerImageBuilder.cs,https://github.com/microsoft/aspire/issues/11299,15,area-app-model,2025-09-09,2026-11-04
 microsoft/microsoft-ui-xaml,C++,Lifetime Stree Test Optimizaton,https://github.com/microsoft/microsoft-ui-xaml/issues/11976,0,,2026-09-23,2026-09-23
 microsoft/snmalloc,C++,Implement accurate size storage for Windows `_msize` and `_recalloc`,https://github.com/microsoft/snmalloc/issues/786,0,enhancement,2025-07-02,2025-07-02
+microsoft/qdk-chemistry,C++,Validate RDM and orbital entropy sizes in wavefunction containers,https://github.com/microsoft/qdk-chemistry/issues/816,1,enhancement; triage; refactor/cleaning,2026-11-19,2026-11-20
 microsoft/react-native-windows,C++,Scroll wheel behavior differs significantly in new architecture (Windows App SDK) vs WinUI 3 Gallery app,https://github.com/microsoft/react-native-windows/issues/14653,1,bug; Area: ScrollView; New Architecture; Parity: Windows; Workstream: Component Parity,2025-05-08,2025-07-03
 microsoft/react-native-windows,C++,Deprecate autolink functionality to copy flags from react-native.config.js into ExperimentalFeature.props.,https://github.com/microsoft/react-native-windows/issues/14601,1,enhancement; Code Cleanup; Area: Autolinking,2025-04-22,2025-06-11
 microsoft/react-native-windows,C++,[Bug] init-windows adds incorrect name of Native Codegen File Include,https://github.com/microsoft/react-native-windows/issues/15094,4,bug; Area: CLI,2025-08-29,2026-08-04
+microsoft/sbi,Go,Add Azure Linux 4 GA images to nightly scan,https://github.com/microsoft/sbi/issues/124,0,enhancement,2026-11-19,2026-11-19
 microsoft/TypeScript,Go,Incorrect error message when ASI errors involve a nonstandard newline,https://github.com/microsoft/TypeScript/issues/65433,3,Bug; Help Wanted,2026-11-10,2026-11-17
 microsoft/retina,Go,Update documentation with Hubble CLI and Hubble UI deployment instructions on Retina.,https://github.com/microsoft/retina/issues/1387,3,area/documentation; type/enhancement; scope/S; control-plane/hubble,2025-02-26,2025-05-13
 microsoft/terraform-provider-azuredevops,Go,Full unit test suite isn't running on CI,https://github.com/microsoft/terraform-provider-azuredevops/issues/1439,6,,2025-09-29,2026-09-20
@@ -50,7 +51,7 @@ microsoft/data-formulator,Python,Docker Support,https://github.com/microsoft/dat
 microsoft/PyRIT,Python,"Parent: LLM Vulnerability Scanner Feature Parity with Garak, Giskard, CyberSecEval",https://github.com/microsoft/PyRIT/issues/511,3,help wanted,2024-10-30,2026-10-06
 microsoft/markitdown,Python,"Autonomous Agents, Unite!",https://github.com/microsoft/markitdown/issues/2386,4,,2026-09-04,2026-09-05
 microsoft/BitBLAS,Python,"Example of bitblas/ladder with dtypes like int3, int5, int6, int7",https://github.com/microsoft/BitBLAS/issues/244,4,enhancement,2024-11-11,2024-12-16
-microsoft/mssql-python,Python,FEAT: Built-in configurable connection and transient-fault retry logic,https://github.com/microsoft/mssql-python/issues/682,5,enhancement; triage done; up for grabs 🙌; inADO; discussion,2026-07-15,2026-09-03
+microsoft/mssql-python,Python,FEAT: Built-in configurable connection and transient-fault retry logic,https://github.com/microsoft/mssql-python/issues/682,6,enhancement; triage done; up for grabs 🙌; inADO; discussion,2026-07-15,2026-11-19
 microsoft/physical-ai-toolchain,Python,build: refresh and consolidate repository uv pins,https://github.com/microsoft/physical-ai-toolchain/issues/1071,6,build; security,2026-06-30,2026-09-18
 microsoft/data-formulator,Python,Expand chart type supports,https://github.com/microsoft/data-formulator/issues/193,6,help wanted,2025-11-07,2025-12-05
 microsoft/markitdown,Python,File support: chm support,https://github.com/microsoft/markitdown/issues/14,7,enhancement,2024-12-13,2026-06-10
@@ -95,7 +96,6 @@ microsoft/teams.ts,TypeScript,[cards] support lowercase and Capitalized JSON val
 microsoft/genaiscript,TypeScript,Repository map example,https://github.com/microsoft/genaiscript/issues/982,4,samples,2025-01-07,2025-03-19
 microsoft/vscode-python-debugger,TypeScript,Add support for no-config debugging using nushell,https://github.com/microsoft/vscode-python-debugger/issues/647,5,feature-request; needs community feedback,2025-03-04,2026-11-10
 microsoft/teams.ts,TypeScript,Automatically parse feedback value,https://github.com/microsoft/teams.ts/issues/184,7,enhancement,2025-04-26,2026-05-15
-microsoft/vscode,TypeScript,Devcontainer setup ad-hoc parsing fails on Rocky 8.5,https://github.com/microsoft/vscode/issues/232159,23,bug; linux; remote,2024-10-24,2026-10-15
 microsoft/vscode,TypeScript,Go to symbol in workspace shortcut in Codespaces (browser) is CTRL-T.,https://github.com/microsoft/vscode/issues/232381,33,help wanted; feature-request; quick-open,2024-10-28,2026-09-01
 microsoft/vscode,TypeScript,Review AsyncIterableObject usage: potential memory leaks and migration to AsyncIterableProducer,https://github.com/microsoft/vscode/issues/256854,39,help wanted; freeze-slow-crash-leak; debt; perf,2025-07-19,2026-11-10
 microsoft/vscode,TypeScript,"Disabled and enabled (workspace) extension Disable button dropdown contains both ""Disable"" and ""Disable (Workspace)"" items",https://github.com/microsoft/vscode/issues/244138,42,bug; help wanted; extensions,2025-03-20,2026-10-18
