@@ -32,7 +32,7 @@ microsoft/edge-ai,HCL,chore(rust): standardize strip = true across all Rust crat
 microsoft/edge-ai,HCL,docs(testing): update testing-validation.md to reflect actual test frameworks,https://github.com/microsoft/edge-ai/issues/144,3,documentation,2026-02-07,2026-09-01
 microsoft/edge-ai,HCL,docs(changelog): add CHANGELOG.md generation,https://github.com/microsoft/edge-ai/issues/143,3,documentation; enhancement,2026-02-07,2026-07-30
 microsoft/copilot-for-eclipse,Java,The Copilot Chat view retains file context even after the file is closed,https://github.com/microsoft/copilot-for-eclipse/issues/277,0,bug; help wanted,2026-06-05,2026-06-05
-microsoft/typespec,Java,testing: expectDiagnostics() should provide an option to ignore ordering,https://github.com/microsoft/typespec/issues/5818,3,feature; triaged:core; compiler:core,2025-01-30,2025-05-23
+microsoft/typespec,Java,testing: expectDiagnostics() should provide an option to ignore ordering,https://github.com/microsoft/typespec/issues/5818,4,feature; triaged:core; compiler:core,2025-01-30,2026-11-20
 microsoft/copilot-for-eclipse,Java,Unable to use the Java source file corresponding to the class file as context,https://github.com/microsoft/copilot-for-eclipse/issues/117,13,help wanted,2026-04-15,2026-06-25
 microsoft/hve-core,PowerShell,docs: Update stale documentation - docs/planning/brds/sssc-planner-security-brd.md,https://github.com/microsoft/hve-core/issues/2912,2,documentation; needs-triage; stale-docs; automated,2026-09-14,2026-11-07
 microsoft/teams-agent-accelerator-libs-py,Python,Expose the ability to add memory explicitly,https://github.com/microsoft/teams-agent-accelerator-libs-py/issues/57,0,,2024-12-16,2025-01-06
