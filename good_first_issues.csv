@@ -3,7 +3,8 @@ microsoft/jbpf,C,jbpf_io_ipc_test passes with error messages,https://github.com/
 microsoft/msquic,C,Miss check for the return value of CXPLAT_ALLOC_NONPAGED and CxPlatPoolAlloc,https://github.com/microsoft/msquic/issues/5233,1,help wanted; Area: Testing; Triaged; HowFound: MSR,2025-07-10,2026-11-11
 microsoft/ntttcp,C,per-thread throughput is always 0.00 with ntttcp version 5.40.,https://github.com/microsoft/ntttcp/issues/24,1,help wanted,2025-03-14,2026-02-17
 microsoft/jbpf,C,Remove JBPF_EXPERIMENTAL_FEATURES from  header files,https://github.com/microsoft/jbpf/issues/26,1,,2024-12-13,2026-11-07
-microsoft/ebpf-for-windows,C,Cleanup: catch2 now allows multiple threads,https://github.com/microsoft/ebpf-for-windows/issues/4553,2,cleanup; triaged; P3,2025-07-31,2026-11-06
+microsoft/ntttcp,C,Incorrect processing of the test pattern,https://github.com/microsoft/ntttcp/issues/23,1,help wanted,2024-11-14,2026-02-17
+microsoft/ebpf-for-windows,C,Cleanup: catch2 now allows multiple threads,https://github.com/microsoft/ebpf-for-windows/issues/4553,2,cleanup; triaged; P3,2025-07-31,2026-11-23
 microsoft/ebpf-for-windows,C,Update tests/sample/undocked/map.c,https://github.com/microsoft/ebpf-for-windows/issues/4547,2,cleanup; triaged; P3,2025-07-30,2026-11-06
 microsoft/msquic,C,Support in-memory certificate stores,https://github.com/microsoft/msquic/issues/4951,2,feature request; external; Area: API; Area: Core,2025-03-27,2026-05-26
 microsoft/ebpf-for-windows,C,ebpf-verifier is cloned twice,https://github.com/microsoft/ebpf-for-windows/issues/4174,2,blocked; cleanup; triaged; P3,2025-02-03,2026-11-07
@@ -52,7 +53,6 @@ microsoft/AutoPodcaster,Python,Add devcontainer,https://github.com/microsoft/Aut
 microsoft/TRELLIS,Python,TRELLIS API,https://github.com/microsoft/TRELLIS/issues/65,2,,2024-12-14,2025-07-21
 microsoft/PyRIT,Python,BUG: remove_seeds_from_memory / remove_seed_groups_from_memory delete the whole dataset when given an empty id or hash list,https://github.com/microsoft/PyRIT/issues/4473,3,,2026-11-20,2026-11-22
 microsoft/data-formulator,Python,Docker Support,https://github.com/microsoft/data-formulator/issues/85,3,,2025-02-13,2026-03-14
-microsoft/PyRIT,Python,"FEAT: Add AttaQ dataset loader (1,402 adversarial questions in 7 harm categories)",https://github.com/microsoft/PyRIT/issues/4495,4,help wanted; datasets,2026-11-21,2026-11-22
 microsoft/markitdown,Python,"Autonomous Agents, Unite!",https://github.com/microsoft/markitdown/issues/2386,4,,2026-09-04,2026-09-05
 microsoft/mssql-python,Python,FEAT: Built-in configurable connection and transient-fault retry logic,https://github.com/microsoft/mssql-python/issues/682,6,enhancement; triage done; up for grabs 🙌; inADO; discussion,2026-07-15,2026-11-19
 microsoft/physical-ai-toolchain,Python,build: refresh and consolidate repository uv pins,https://github.com/microsoft/physical-ai-toolchain/issues/1071,6,build; security,2026-06-30,2026-09-18
