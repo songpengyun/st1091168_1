@@ -43,7 +43,7 @@ microsoft/mssql-django,Python,"JSON-null key lookups use OPENJSON, which require
 microsoft/mssql-django,Python,JSONField key isnull=True over-matches JSON null values on SQL Server (also causes wrong iexact=None on Django < 6.1),https://github.com/microsoft/mssql-django/issues/591,1,bug,2026-09-08,2026-09-08
 microsoft/winml-cli,Python,Minor refactor: reuse _compute_case_signature to compute failed model file name,https://github.com/microsoft/winml-cli/issues/56,1,refactor; NPU; P1; triaged,2026-03-31,2026-06-17
 microsoft/teams-agent-accelerator-libs-py,Python,Provide cleaner api for building citations for memories,https://github.com/microsoft/teams-agent-accelerator-libs-py/issues/72,1,,2024-12-19,2025-11-17
-microsoft/PyRIT,Python,FEAT: Add `DRAConverter` (disguise-and-reconstruction jailbreak from garak),https://github.com/microsoft/PyRIT/issues/4639,2,help wanted; converters,2026-11-25,2026-11-25
+microsoft/PyRIT,Python,"BUG: AudioAchillesHeel doesn't declare its audio input requirement, so text-only targets fail at send time",https://github.com/microsoft/PyRIT/issues/4705,2,bug,2026-11-27,2026-11-27
 microsoft/PyRIT,Python,DOC: Document the seven text selection strategies missing from the Selectively Converting page,https://github.com/microsoft/PyRIT/issues/4497,2,documentation; help wanted,2026-11-21,2026-11-21
 microsoft/mssql-django,Python,[Django 6.1] JSONField key iexact=None lookup returns wrong results on SQL Server,https://github.com/microsoft/mssql-django/issues/574,2,bug; area: orm-query; area: django-compat,2026-08-07,2026-08-11
 microsoft/OpenAIWorkshop,Python,Fix eslint warnings,https://github.com/microsoft/OpenAIWorkshop/issues/292,2,enhancement,2025-10-03,2025-12-18
